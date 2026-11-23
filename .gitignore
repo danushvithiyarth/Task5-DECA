@@ -1,0 +1,10 @@
+# Personal originals stay local; upload them privately in the Colab cell.
+inputs/*.png
+inputs/*.jpg
+inputs/*.jpeg
+outputs/**
+!outputs/screenshots/
+!outputs/screenshots/**
+FaceLift/
+__pycache__/
+.DS_Store
